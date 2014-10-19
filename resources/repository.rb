@@ -29,7 +29,6 @@ attribute :enabled, :default => 1
 attribute :type, :kind_of => String, :default => nil
 attribute :failovermethod, :kind_of => String, :default => nil
 attribute :bootstrapurl, :kind_of => String, :default => nil
-attribute :includepkgs, :kind_of => String, :default => nil
 
 def initialize(*args)
   super
