@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 # Description
 
 Configures various YUM components on Red Hat-like systems.  Includes
