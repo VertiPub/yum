@@ -123,7 +123,6 @@ repo is added.
 - type: Optional, alternate type of repository
 - failovermethod: Optional, failovermethod
 - bootstrapurl: Optional, bootstrapurl
-- includepkgs: Optional, list of packages you want to use from repo
 
 ### Example
 
